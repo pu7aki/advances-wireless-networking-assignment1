@@ -4,6 +4,7 @@ Use java.
 
 Calculate the actual throughput for 802.11a/g/n/ac/ax and for all available data rates, for both UDP and TCP.
 
+
 • Your program should accept 3 arguments:
 
   • Protocol (UDP/TCP)
@@ -13,6 +14,7 @@ Calculate the actual throughput for 802.11a/g/n/ac/ax and for all available data
   • Available data rate for each standard (e.g. 802.11a/g: 54, 48, 36,…)
   
   • Note: For standard .11n/ac, consider SDur = 3.6𝜇s only
+  
   
 • Your program must return for each scenario:
 
@@ -25,6 +27,7 @@ Calculate the actual throughput for 802.11a/g/n/ac/ax and for all available data
    • 160MHz/8SS for .11ax
    
   • The amount of time needed to transfer 10 GB of data.
+  
   
   
 • “Readme” file – detailing usage, and explaining:
