@@ -1,2 +1,2 @@
 # comp_eeen_assignment
-My assignments
+My assignments of my courses in comp and eeen.
